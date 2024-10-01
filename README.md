@@ -14,6 +14,7 @@ Optical and mechanical specifications for the AMS-AGY v1 objective (a.k.a Snouty
 |FOV ∅ (DL)    |150 μm     |diffraction limited field of view diameter                      |
 |FOV (bevel)   |250 μm     |mechanically limited field of view diameter (1 direction only)  |
 |BFP ∅         |10 mm      |back focal plane diameter                                       |
+|Glass tip     |S-LAM2     |glass type for the tip of the objective                         |
 
 ## Mechanical:
 |Specification     |Value      |Description                                   |
