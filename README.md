@@ -24,3 +24,4 @@ Optical and mechanical specifications for the AMS-AGY v1 objective (a.k.a Snouty
 |Parfocal distance |31.24mm    |distance from mounting flange to image plane  |
 |Total length      |34.24mm    |the total length of the objective             |
 |Max diameter      |26mm       |the maximum diameter of the objective         |
+|Mass              |30g        |the mass of the objective                     |
