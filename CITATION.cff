@@ -14,4 +14,4 @@ repository-code: 'https://github.com/amsikking/AMS_AGY_v1_specifications'
 abstract: >-
   Optical and mechanical specifications for the AMS-AGY v1
   objective (a.k.a Snouty).
-license: GPL-3.0-or-later
+license: GPL-3.0
