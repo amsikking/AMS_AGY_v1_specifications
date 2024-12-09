@@ -1,6 +1,6 @@
 # AMS_AGY_v1_specifications
 
-<a href="https://doi.org/10.5281/zenodo.14339989"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14339989.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.14339988"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14339988.svg" alt="DOI"></a>
 
 Optical and mechanical specifications for the AMS-AGY v1 objective (a.k.a Snouty).
 
