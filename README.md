@@ -25,7 +25,7 @@ Optical and mechanical specifications for the AMS-AGY v1 objective (a.k.a Snouty
 |-                       |-                  |-                                             |
 |Tilt range              |0-45 deg           |tilt range enabled by ground glass edge       |
 |Thread                  |M25 x 0.75         |thread type for mounting                      |
-|Parfocal distance       |31.24mm            |distance from mounting flange to image plane  |
-|Total length            |34.24mm            |the total length of the objective             |
-|Max diameter            |26mm               |the maximum diameter of the objective         |
-|Mass                    |30g                |the mass of the objective                     |
+|Parfocal distance       |31.24 mm           |distance from mounting flange to image plane  |
+|Total length            |34.24 mm           |the total length of the objective             |
+|Max diameter            |26 mm              |the maximum diameter of the objective         |
+|Mass                    |30 g               |the mass of the objective                     |
